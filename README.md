@@ -29,7 +29,7 @@ Example use case: generating handwritten digits (MNIST) or synthetic images.
 
 ---
 
-## ⚡ Installation & Usage  
+##  Installation & Usage  
 
 1. Clone this repo:  
    ```bash
